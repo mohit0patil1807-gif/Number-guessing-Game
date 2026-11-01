@@ -6,6 +6,11 @@ A command-line number guessing game built with Python. The player attempts to gu
 
 The Number Guessing Game is a classic terminal-based game. When the game starts, a random number between 1 and 100 is chosen. The player selects a difficulty level (Easy or Hard) and receives hints after each guess indicating whether the guess was too high or too low until they find the answer or run out of attempts.
 
+## Live Demo
+
+You can try an interactive demo of the game in your browser:
+https://appbrewery.github.io/python-day12-demo/
+
 ## Features
 
 - Random Number Generation: A secret number between 1 and 100 is selected for each game.
@@ -83,3 +88,4 @@ You got it! The answer was 37
 
 - mohit0patil1807-gif
 - GitHub: https://github.com/mohit0patil1807-gif
+
